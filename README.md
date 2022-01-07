@@ -16,13 +16,13 @@ Skills: JavaScript (ES6), React, HTML5, CSS3, Bootstrap5, MaterialUI, SCSS,  Fir
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zihad550)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub metrics](https://metrics.lecoq.io/Zihad550)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=merko)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zihad550)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zihad550)  
 
-![GitHub metrics](https://metrics.lecoq.io/Zihad550)  
+
 
 
 
