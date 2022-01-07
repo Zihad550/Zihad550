@@ -7,6 +7,9 @@ Skills and Experience
 
 * 🖥️ JavaScript, HTML, CSS
 * ⚛️ React
+* 📎 Bootstrap, MaterialUI, Tailwindcss
+* 💾 MongoDB
+* 🔓 Firebase
 
 
 
