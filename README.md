@@ -18,7 +18,7 @@ Skills: JavaScript (ES6), React, HTML5, CSS3, Bootstrap5, MaterialUI, SCSS,  Fir
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=merko)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zihad550)  
 
