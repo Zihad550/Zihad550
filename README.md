@@ -6,7 +6,7 @@
 
 Skills: JavaScript / React / MongoDB / MaterialUI / HTML5 / CSS3 / Bootstrap5 / Redux / SCSS / / Firebase / Git /  
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently looking for jobs. 
 
 
 
