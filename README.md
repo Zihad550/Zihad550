@@ -35,9 +35,9 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zihad550)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zihad550)](https://github.com/ryo-ma/github-profile-trophy&row=2&column=3) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=marko&row=1&column=2)  ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Zihad550&row=1&column=2)
