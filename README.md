@@ -40,8 +40,8 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)  
 
 <div style="display:grid;grid-templace-columns:repeat(2, 1fr);">
- <img src="https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=merko" alt="github stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihad550" alt="github streak stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=merko&row=1&column=2" alt="github stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihad550&row=1&column=2" alt="github streak stats"/>
  </div>
   ![GitHub streak stats]()  
 
