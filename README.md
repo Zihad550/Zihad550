@@ -5,8 +5,8 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 
 Skills and Experience
 
-🖥️ JavaScript, HTML, CSS
-⚛️ React
+* 🖥️ JavaScript, HTML, CSS
+* ⚛️ React
 
 
 
