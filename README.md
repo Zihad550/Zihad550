@@ -15,12 +15,10 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 ## Social Profiles
 <div> 
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-
- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>  
- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'> 
- <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> 
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>  
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'> </div>
+<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
+ <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>
+</div>
 
 
 
