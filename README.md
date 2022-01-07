@@ -14,7 +14,8 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 
 ## Social Profiles
 <div> 
- <img src="https://img.icons8.com/windows/32/000000/networking-manager.png"/>
+<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+
  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>  
  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'> 
  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> 
