@@ -33,15 +33,11 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 
 <br/>
 
-<div style="display:flex;justify-content:space-between">
- 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zihad550&row=2&column=3"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550"/>
- </div>
 
-<!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zihad550&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)   -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zihad550)](https://github.com/ryo-ma/github-profile-trophy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 
