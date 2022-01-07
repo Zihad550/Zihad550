@@ -17,13 +17,18 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 
 ## Social Profiles
 <div> 
-  <a href="https://jehad-hossain.netlify.app/">
+  <a href="https://github.com/Zihad550">
   <img  src="https://img.icons8.com/color/48/000000/github--v1.png"/> 
   </a>
- 
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
- <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
- <img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>
+  <a href="https://www.linkedin.com/in/zihad-hussain-439910216/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/zihad31hussain/">
+   <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+  </a>
+  <a href="https://jehad-hossain.netlify.app/">
+   <img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>
+  </a>
 </div>
 
 <br/>
