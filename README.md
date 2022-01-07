@@ -1,4 +1,4 @@
-![I am a MERN Stack Web Developer](https://i.ibb.co/BTrQ4ZS/Banner.png)
+![I am a MERN Stack Web Developer](https://github.com/Zihad550/Zihad550/blob/main/Banner.png)
 ### Hi there 👋, my name is Jehad Hossain
 
 
