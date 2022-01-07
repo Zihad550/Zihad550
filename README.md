@@ -1,10 +1,14 @@
 ![I am a MERN Stack Web Developer](https://github.com/Zihad550/Zihad550/blob/main/Banner.png)
+
 ### Hi there 👋, my name is Jehad Hossain
-
-
 I’m A MERN Stack Web Developer. I have completed several courses, on web development and learned about JavaScript, React, MaterialUI, MongoDB, Node.js, and many other tools and techs. And I’ve completed several projects like e-commerce, education, and service-related projects. I get so much fun when I do this kind of project of web development. I did a lot of struggles, there was a lot of challenge but I really enjoyed learning new things about web development.
 
-Skills: JavaScript (ES6), React, HTML5, CSS3, Bootstrap5, MaterialUI, SCSS,  Firebase, MongoDB, git, React-Router, Redux and TailwindCSS
+Skills and Experience
+
+🖥️ JavaScript, HTML, CSS
+⚛️ React
+
+
 
 - 🌱 I’m currently learning React Native 
 - 👯 I’m looking to collaborate on Github 
