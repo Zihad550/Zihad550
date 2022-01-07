@@ -28,12 +28,14 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=merko)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zihad550)  
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=merko" alt="github stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihad550" alt="github streak stats"/>
+ </div>
+  ![GitHub streak stats]()  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zihad550)  
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/Zihad550)  
 
 ![Profile views](https://gpvc.arturio.dev/Zihad550)  
