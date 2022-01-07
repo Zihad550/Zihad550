@@ -20,6 +20,8 @@ I’m A MERN Stack Web Developer. I have completed several courses, on web devel
  <img src="https://img.icons8.com/fluency/48/000000/portfolio.png"/>
 </div>
 
+<br/>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zihad550)](https://github.com/ryo-ma/github-profile-trophy)
