@@ -3,9 +3,9 @@
 # Jehad Hossain
 I'm 18 years old Frontend Developer with 1+ year of experience.
 
-I'm comfortable working with JavaScript, Typescript, React, Node, Express, and MongoDB. I have developed several web applications with these technologies. I Have developed E-commerce, Landing Page, booking, and portfolio sites.
+I'm comfortable working with JavaScript, Typescript, React, Vue, Node, Express, and MongoDB. I have developed several web applications with these technologies. I Have developed E-commerce, Landing Page, booking, and portfolio sites.
 
-Every day I code for 10 hours, and most of my time passes facing red lights on the console and fixing them. I like to learn new technologies and do real-world projects with them.
+I like to learn new technologies and do real-world projects with them.
 
 Currently, I'm learning Typescript and exploring web3 technologies.
 
