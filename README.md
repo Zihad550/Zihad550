@@ -1,7 +1,7 @@
 ![I am a MERN Stack Web Developer](https://github.com/Zihad550/Zihad550/blob/main/Banner.png)
 
 # Jehad Hossain
-I'm 18 years old Frontend Developer with 1+ year of experience.
+I'm 19 years old Frontend Developer with 1+ year of experience.
 
 I'm comfortable working with JavaScript, Typescript, React, Vue, Node, Express, and MongoDB. I have developed several web applications with these technologies. I Have developed E-commerce, Landing Page, booking, and portfolio sites.
 
