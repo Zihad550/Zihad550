@@ -8,9 +8,10 @@ I like to learn new technologies and do real-world projects with them.
 
 Currently, I'm learning Typescript and Go.
 
-## Programming languages and libraries
+<!-- ## Programming languages and libraries -->
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<!-- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+ -->
 
 ## Social Profiles
 
