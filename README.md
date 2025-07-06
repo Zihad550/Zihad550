@@ -2,8 +2,7 @@
 
 I'm 21 years old Software Developer. With 3 years of working experience with Typescript, Javascript, React, Vue, Node, Express, and MongoDB.
 
-I like to learn new technologies and do real-world projects with them.
-
+I like to learn new technologies and do real-world projects with them. I'm currently looking for a job opportunity.
 Currently, I'm learning CI/CD and Go.
 
 <!-- ## Programming languages and libraries -->
