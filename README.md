@@ -1,12 +1,10 @@
 # Jehad Hossain
 
-I'm 21 years old Software Developer.
-
-I'm comfortable working with JavaScript, Typescript, React, Vue, Node, Express, and MongoDB. I have developed several web applications with these technologies. I Have developed E-commerce, Landing Page, booking, and portfolio sites.
+I'm 21 years old Software Developer. With 3 years of working experience with Typescript, Javascript, React, Vue, Node, Express, and MongoDB.
 
 I like to learn new technologies and do real-world projects with them.
 
-Currently, I'm learning Typescript and Go.
+Currently, I'm learning CI/CD and Go.
 
 <!-- ## Programming languages and libraries -->
 
@@ -15,11 +13,8 @@ Currently, I'm learning Typescript and Go.
 
 ## Social Profiles
 
-<div> 
-  <a href="https://github.com/Zihad550">
-  <img  src="https://img.icons8.com/color/48/000000/github--v1.png"/> 
-  </a>
-  <a href="https://www.linkedin.com/in/zihad-hussain-439910216/">
+<div>
+  <a href="https://www.linkedin.com/in/jehad-hossain">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/zihad31hussain/">
