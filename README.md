@@ -28,7 +28,7 @@ Currently, I'm learning CI/CD and Go.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zihad550&theme=dracula&rank=SSS,SS,S,AAA,AA,A)](https://github.com/Zihad550)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550&layout=donut&theme=dracula)](https://github.com/Zihad550)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550&layout=pie&theme=dracula)](https://github.com/Zihad550)
 
 ![Jehad GitHub stats](https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=dracula&row=1&column=2)
 
