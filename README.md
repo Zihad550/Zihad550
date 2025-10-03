@@ -49,9 +49,6 @@
     <a href="https://www.linkedin.com/in/jehad-hossain" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.facebook.com/zihad31hussain/" target="_blank">
-      <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-    </a>
     <a href="https://jehad-hossain.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
     </a>
