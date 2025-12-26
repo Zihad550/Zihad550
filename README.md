@@ -8,8 +8,7 @@
   <br/>
   <p>
     🎯 21-year-old passionate Software Developer<br/><br/>
-    💼 3+ years of hands-on experience building real-world projects<br/><br/>
-    🌟 Expert in TypeScript | React | Node.js | Vue<br/><br/>
+    🌟 Expert in TypeScript | React | Node.js | Vue | MongoDB<br/><br/>
     💡 Currently diving deep into CI/CD and Go<br/><br/>
     <strong>✅ Open for New Opportunities</strong>
   </p>
