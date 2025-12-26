@@ -3,42 +3,30 @@
 </div>
 
 <div align="center">
-  <img src="./assets/profile-photo.png" alt="Jehad Hossain" width="200" height="200" style="border-radius: 50%; border: 4px solid #58A6FF; margin: 20px 0;" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;3%2B+Years+Experience;TypeScript+%7C+React+%7C+Node.js+%7C+Vue;Currently+Learning+CI%2FCD+%26+Go;Open+to+New+Opportunities" alt="Typing SVG" />
+  <h1>Full Stack Developer</h1>
+  <h3>3+ Years of Experience</h3>
+  <br/>
+  <p>
+    🎯 21-year-old passionate Software Developer<br/><br/>
+    💼 3+ years of hands-on experience building real-world projects<br/><br/>
+    🌟 Expert in TypeScript | React | Node.js | Vue<br/><br/>
+    💡 Currently diving deep into CI/CD and Go<br/><br/>
+    <strong>✅ Open for New Opportunities</strong>
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>🚀 About Me</h3>
-        <ul align="left">
-          <li>🎯 <strong>21-year-old</strong> passionate Software Developer</li>
-          <li>💼 <strong>3+ years</strong> of hands-on experience</li>
-          <li>🌟 Love building <strong>real-world projects</strong> with cutting-edge tech</li>
-          <li>📚 Currently diving deep into <strong>CI/CD</strong> and <strong>Go</strong></li>
-          <li>💡 Always excited to learn and implement new technologies</li>
-          <li>🎯 <strong>Actively seeking new opportunities</strong></li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h3>💻 Tech Stack</h3>
-        <div align="center">
-          <strong>Frontend</strong><br/>
-          <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css" /><br/><br/>
-          <strong>Backend & Database</strong><br/>
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/><br/>
-          <strong>Currently Learning</strong><br/>
-          <img src="https://skillicons.dev/icons?i=go,docker,kubernetes" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h3>💻 Tech Stack</h3>
+  <div align="center">
+    <strong>Frontend</strong><br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css" /><br/><br/>
+    <strong>Backend & Database</strong><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/><br/>
+    <strong>Currently Learning</strong><br/>
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes" />
+  </div>
 </div>
 
 ---
