@@ -59,15 +59,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-seven-xi-80.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Commits" />
+        <img src="https://github-readme-stats-seven-xi-80.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Commits" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zihad550&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats-seven-xi-80.vercel.app/api/top-langs/?username=Zihad550&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
