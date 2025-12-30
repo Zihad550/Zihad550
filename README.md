@@ -27,7 +27,7 @@
   <h3>💻 Tech Stack</h3>
   <div align="center">
     <strong>Frontend</strong><br/>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,tailwind,nuxtjs,nextjs,redux" /><br/><br/>
     <strong>Backend & Database</strong><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/><br/>
     <strong>Currently Learning</strong><br/>
