@@ -61,9 +61,6 @@
       <td>
         <img src="https://github-readme-stats-seven-xi-80.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats-seven-xi-80.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Commits" />
-      </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
