@@ -7,7 +7,7 @@
   <h3>3+ Years of Experience</h3>
   <br/>
   <p>
-    🎯 21-year-old passionate Software Developer<br/><br/>
+    🎯 23-year-old passionate Software Developer<br/><br/>
     🌟 Expert in TypeScript | React | Node.js | Vue | MongoDB<br/><br/>
     💡 Currently diving deep into CI/CD and Go<br/><br/>
     <strong>✅ Open for New Opportunities</strong>
@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>📊 Current Stats</h3>
-  <img src="https://streak-stats.demolab.com/?user=Zihad550&theme=tokyonight&hide_border=true&card_width=600&date_format=[M]%20d[,%20Y]&locale=en&disable_animations=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-pied-omega.vercel.app/?user=Zihad550&theme=tokyonight&hide_border=true&card_width=600&date_format=[M]%20d[,%20Y]&locale=en&disable_animations=false" alt="GitHub Streak" />
 </div>
 
 ---
