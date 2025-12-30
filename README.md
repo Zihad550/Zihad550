@@ -27,11 +27,13 @@
   <h3>💻 Tech Stack</h3>
   <div align="center">
     <strong>Frontend</strong><br/>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,tailwind,nuxtjs,nextjs,redux" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,tailwind,materialui,nextjs,pinia,redux,html,css,bootstrap,vitest,cypress,vite,jquery,graphql,styledcomponents,sass" /><br/><br/>
     <strong>Backend & Database</strong><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,redis,postgres" /><br/><br/>
+    <strong>Tools</strong><br/>
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,docker,figma" /><br/><br/>
     <strong>Currently Learning</strong><br/>
-    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=go" />
   </div>
 </div>
 
