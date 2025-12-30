@@ -17,6 +17,13 @@
 ---
 
 <div align="center">
+  <h3>📊 Current Stats</h3>
+  <img src="https://streak-stats.demolab.com/?user=Zihad550&theme=tokyonight&hide_border=true&card_width=600&date_format=[M]%20d[,%20Y]&locale=en&disable_animations=false" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
   <h3>💻 Tech Stack</h3>
   <div align="center">
     <strong>Frontend</strong><br/>
@@ -48,13 +55,6 @@
 ---
 
 <div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Zihad550&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="Trophies" />
-</div>
-
----
-
-<div align="center">
   <h3>📊 GitHub Analytics</h3>
   <table>
     <tr>
@@ -62,7 +62,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zihad550&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Zihad550&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Commits" />
       </td>
     </tr>
     <tr>
