@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  <!--<h1>Hi, I'm Jehad 👋</h1>-->
   <h3>Full Stack Developer · Dhaka, Bangladesh</h3>
 </div>
 
@@ -28,16 +29,16 @@ Frontend Developer at **MamaCRM** — building and improving features with Vue a
   <p>
     <code>TypeScript</code> · <code>React</code> · <code>Vue</code> · <code>Next.js</code> · <code>Nuxt</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code> · <code>Go</code>
   </p>
-  <div align="center">
+  <!--<div align="center">
     <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,nuxtjs,nodejs,express,mongodb,postgres,tailwind,go" />
-  </div>
+  </div>-->
 </div>
 
 ---
 
 <div align="center">
   <h3>🌐 Connect With Me</h3>
-  <p>📫 <a href="https://jehad-hossain.netlify.app">Portfolio</a> · <a href="https://linkedin.com/in/jehad-hossain">LinkedIn</a> · jehadhossain008@gmail.com</p>
+  <!--<p>📫 <a href="https://jehad-hossain.netlify.app">Portfolio</a> · <a href="https://linkedin.com/in/jehad-hossain">LinkedIn</a> · jehadhossain008@gmail.com</p>-->
   <p>
     <a href="https://www.linkedin.com/in/jehad-hossain" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
