@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Jehad 👋</h1>
   <h3>Full Stack Developer · Dhaka, Bangladesh</h3>
 </div>
 
