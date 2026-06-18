@@ -3,37 +3,34 @@
 </div>
 
 <div align="center">
-  <h1>Full Stack Developer</h1>
-  <h3>3+ Years of Experience</h3>
-  <br/>
+  <h1>Hi, I'm Jehad 👋</h1>
+  <h3>Full Stack Developer · Dhaka, Bangladesh</h3>
+</div>
+
+Full Stack Developer based in Dhaka, Bangladesh, with 4+ years building SaaS products for international teams across Europe and Asia. I've been the first non-local hire on a startup team, fixed critical production bugs in my first week, and led framework migrations under tight deadlines.
+
+I build web apps that don't just work — they perform, scale, and last.
+
+### What I'm about
+
+- **TypeScript over JavaScript**, always. I lean on the type system to catch problems before they ship, and I'm experimenting with stricter, more explicit error-handling patterns in my TS projects (borrowed straight from Go).
+- **I love improving things** — whether that's shaving milliseconds off a render, untangling a messy data flow, or making a UI feel right. Turning rough systems into clean, modular architecture is where I do my best work.
+- **Small teams that ship fast.** Startups are my happy place. I want to see my work go live and get used by real people, not sit in a backlog.
+- **Go fan.** Its simplicity and explicit error handling spoiled me. I'm always chasing that same clarity in everything else I write.
+
+### Currently
+
+Frontend Developer at **MamaCRM** — building and improving features with Vue and TypeScript.
+
+---
+
+<div align="center">
+  <h3>💻 Tech I work with</h3>
   <p>
-    🎯 23-year-old passionate Software Developer<br/><br/>
-    🌟 Expert in TypeScript | React | Node.js | Vue | MongoDB<br/><br/>
-    💡 Currently diving deep into CI/CD and Go<br/><br/>
-    <strong>✅ Open for New Opportunities</strong>
+    <code>TypeScript</code> · <code>React</code> · <code>Vue</code> · <code>Next.js</code> · <code>Nuxt</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code> · <code>Go</code>
   </p>
-</div>
-
----
-
-<div align="center">
-  <h3>📊 Current Stats</h3>
-  <img src="https://github-readme-streak-stats-pied-omega.vercel.app/?user=Zihad550&theme=tokyonight&hide_border=true&card_width=600&date_format=[M]%20d[,%20Y]&locale=en&disable_animations=false" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <h3>💻 Tech Stack</h3>
   <div align="center">
-    <strong>Frontend</strong><br/>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxtjs,tailwind,materialui,nextjs,pinia,redux,html,css,bootstrap,vitest,cypress,vite,jquery,graphql,styledcomponents,sass" /><br/><br/>
-    <strong>Backend & Database</strong><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,prisma,redis,postgres" /><br/><br/>
-    <strong>Tools</strong><br/>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman,docker,figma" /><br/><br/>
-    <strong>Currently Learning</strong><br/>
-    <img src="https://skillicons.dev/icons?i=go" />
+    <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,nuxtjs,nodejs,express,mongodb,postgres,tailwind,go" />
   </div>
 </div>
 
@@ -41,6 +38,7 @@
 
 <div align="center">
   <h3>🌐 Connect With Me</h3>
+  <p>📫 <a href="https://jehad-hossain.netlify.app">Portfolio</a> · <a href="https://linkedin.com/in/jehad-hossain">LinkedIn</a> · jehadhossain008@gmail.com</p>
   <p>
     <a href="https://www.linkedin.com/in/jehad-hossain" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -52,6 +50,13 @@
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 Current Stats</h3>
+  <img src="https://github-readme-streak-stats-pied-omega.vercel.app/?user=Zihad550&theme=tokyonight&hide_border=true&card_width=600&date_format=[M]%20d[,%20Y]&locale=en&disable_animations=false" alt="GitHub Streak" />
 </div>
 
 ---
