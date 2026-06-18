@@ -27,7 +27,7 @@ Frontend Developer at **MamaCRM** — building and improving features with Vue a
 <div align="center">
   <h3>💻 Tech I work with</h3>
   <p>
-    <code>TypeScript</code> · <code>React</code> · <code>Vue</code> · <code>Next.js</code> · <code>Nuxt</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code> · <code>Go</code>
+    <code>TypeScript</code> · <code>React</code> · <code>Vue</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express</code> · <code>MongoDB</code> · <code>PostgreSQL</code> · <code>Tailwind CSS</code> · <code>Go</code>
   </p>
   <!--<div align="center">
     <img src="https://skillicons.dev/icons?i=ts,react,vue,nextjs,nuxtjs,nodejs,express,mongodb,postgres,tailwind,go" />
